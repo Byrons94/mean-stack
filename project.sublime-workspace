@@ -1,0 +1,253 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"div"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"e",
+				"getElementById"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"no",
+				"nodemon"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 242,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/projects/nodejs/chat-socketIO/client/main.js",
+		"/C/projects/nodejs/chat-socketIO/client/index.html",
+		"/C/projects/nodejs/chat-socketIO/server/index.js",
+		"/C/projects/nodejs/chat-socketIO/client/styles.css",
+		"/C/projects/nodejs/chat-socketIO/sockets-io",
+		"/C/projects/nodejs/chat-socketIO/package.json",
+		"/C/Users/Byron/Desktop/UIDesigntTemplates/index.html",
+		"/C/Users/Byron/Desktop/UIDesigntTemplates/restaurant.html",
+		"/C/Users/Byron/Desktop/UIDesigntTemplates/cliente.html",
+		"/C/Users/Byron/Documents/SudokuBD2/procedimientos/pProbabilidadesCuadrante.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/ejecutar.sql",
+		"/C/Users/Byron/Downloads/Telegram Desktop/custom.js",
+		"/C/Users/Byron/Downloads/wordpress.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/plantillas/juegoMuyDificil.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/imprimirJuego.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/plantillas/crearPlantillas.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/crearPlantillas.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/procedimientos/pProbabilidadesFila.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/procedimientos/pProbabilidadesColumna.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/procedimientos/pLlenarProbabilidadesInicial.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/procedimientos/pCalcularProbabilidades.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/procedimientos/pcalcProb.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/procedimientos/pCrearPlantillas.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/crearPartida.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/plantillas/ejecutable2.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/plantillas/juegoMedio.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/plantillas/juegoFacil.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/crearTablas.sql",
+		"/C/Users/Byron/Documents/SudokuBD2/ejecutable.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/plantillas/juegoFacil.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/crearPlantillas.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/plantillas/llenaIncognitas.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/plantillas/llenarPosiciones.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/plantillas/crearPlantillas.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/llenaUsuarios.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/procedimientos/pCalcularProbabilidades.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/procedimientos/pLlenarProbabilidadesInicial.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/crearPartida.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/borrarTablas.sql",
+		"/C/Users/Byron/Documents/GitHub/SudokuBD2/plantillas/juegoMedio.sql",
+		"/C/Users/Byron/llenarPosiciones.sql",
+		"/C/Users/Byron/imprimirTabla.sql",
+		"/C/Users/Byron/juegoFacil.sql",
+		"/C/Users/Byron/imprimiTabla.sql",
+		"/C/Users/Byron/llenarJuegos.sql",
+		"/C/Users/Byron/juegoMedio.sql"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
